@@ -1,0 +1,26 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Valley Bistro",
+      "cuisine": "American",
+      "address": "123 South Valley Road",
+      "rating": 4.5,
+      "priceRange": "$$",
+      "description": "Contemporary American cuisine in a cozy atmosphere",
+      "image": "/images/valley-bistro.jpg",
+      "reviews": []
+    },
+    {
+      "id": "2",
+      "name": "Sushi South",
+      "cuisine": "Japanese",
+      "address": "456 Cherry Lane",
+      "rating": 4.8,
+      "priceRange": "$$$",
+      "description": "Fresh sushi and authentic Japanese dishes",
+      "image": "/images/sushi-south.jpg",
+      "reviews": []
+    }
+  ]
+} 
